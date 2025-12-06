@@ -63,7 +63,8 @@ Modify `Data Source` or authentication if needed.
 
 ## 🖼️ Screenshot
 
-<img width="1920" height="1035" alt="Screenshot 2025-12-06 080823" src="https://github.com/user-attachments/assets/79caff27-b571-4567-8c1f-f3506ae04aa2" />
+<img width="1920" height="1035" alt="Screenshot 2025-12-06 080823" src="https://github.com/user-attachments/assets/6746d53e-7e7d-494d-ab8b-e6162a72f55d" />
+
 
 
 **Includes:**
