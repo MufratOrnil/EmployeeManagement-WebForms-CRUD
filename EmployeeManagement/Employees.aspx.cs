@@ -18,6 +18,7 @@ namespace EmployeeManagement
             }
         }
 
+
         private void BindGrid(string nameFilter = null)
         {
             using (SqlConnection con = new SqlConnection(_conString))
